@@ -1,0 +1,161 @@
+@media (max-width: 1600px) {
+  .filter__button {
+    width: 15%;
+  }
+  .links__description p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 1370px) {
+  .item__price {
+    font-size: 15px;
+  }
+  footer h3 {
+    font-size: 15px;
+  }
+  footer p {
+    font-size: 7px;
+  }
+  footer a {
+    font-size: 12px;
+    padding-right: 5px;
+    border-right: 1px solid #746644;
+  }
+  .links__description p {
+    font-size: 12px;
+  }
+  .footer__trekking {
+    width: 20%;
+  }
+  .footer__links {
+    width: 25%;
+  }
+}
+
+@media (max-width: 1024px) {
+  body {
+    font-size: 15px;
+  }
+  .header__menu {
+    width: 25%;
+  }
+  .mainblock p {
+    width: 35%;
+  }
+  label {
+    font-size: 18px;
+  }
+  .checkmark {
+    top: 19%;
+  }
+  .filter__button {
+    width: 25%;
+  }
+  .block__item {
+    width: 30%;
+  }
+  .about {
+    padding: 70px 200px;
+  }
+  .links__description p {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 900px) {
+  .mainblock p {
+    width: 50%;
+  }
+  label {
+    font-size: 14px;
+  }
+  .block__item {
+    width: 33%;
+  }
+  .about {
+    padding: 70px 150px;
+  }
+  .about h2 {
+    left: 40%;
+    width: 20%;
+  }
+  .links__description p {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 440px) {
+  body {
+    font-size: 15px;
+  }
+  h1 {
+    font-size: 35px;
+  }
+  header {
+    padding: 40px 20px;
+  }
+  .header__menu {
+    width: 60%;
+  }
+  .mainblock p {
+    width: 80%;
+  }
+  .content__filter {
+    padding: 40px 20px;
+  }
+  .filter__checkbox {
+    width: 20%;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .filter__button {
+    width: 40%;
+  }
+  button {
+    margin-top: 40%;
+    font-size: 10px;
+    padding: 20px 15px;
+  }
+  .content__product {
+    padding: 0 20px;
+  }
+  .content__product:last-child {
+    padding-bottom: 20px;
+  }
+  .block__item {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .about {
+    padding: 70px 20px;
+  }
+  .about h2 {
+    left: 30%;
+    width: 40%;
+  }
+  .about p {
+    padding: 90px 20px 80px;
+  }
+  .tweet {
+    padding: 30px 0px 30px 20px;
+  }
+  .tweet p {
+    padding-left: 20px;
+  }
+  footer {
+    padding: 60px 20px;
+  }
+  .footer__trekking {
+    width: 30%;
+  }
+  .footer__links {
+    width: 60%;
+  }
+  footer a {
+    font-size: 10px;
+    padding-right: 5px;
+  }
+}
